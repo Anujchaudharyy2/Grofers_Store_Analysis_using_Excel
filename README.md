@@ -48,6 +48,8 @@ Added slicers for columns such as Month, Channel, and Category to make the chart
 
 # Insights
 
+### Highest Sales and Order
+March has the highest Sales and Order
 ### Gender Analysis: 
 Women are more likely to buy compared to men (~65% of purchases).
 ### State Contribution: 
@@ -56,8 +58,6 @@ Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 st
 The adult age group (30-49 years) is the highest contributing group (~50% of purchases).
 ### Sales Channels: 
 Amazon, Flipkart, and Myntra are the top contributing sales channels.
-### Highest Selling Category: 
-Identified the highest selling category from the data.
 
 # Conclusion
 
