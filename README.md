@@ -51,7 +51,7 @@ Added slicers for columns such as Month, Channel, and Category to make the chart
 ### Gender Analysis: 
 Women are more likely to buy compared to men (~65% of purchases).
 ### State Contribution: 
-Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing to sales.
+Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 states contributing to sales.
 ### Age Group Analysis: 
 The adult age group (30-49 years) is the highest contributing group (~50% of purchases).
 ### Sales Channels: 
