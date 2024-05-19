@@ -21,7 +21,6 @@ The store owner wants to create an annual report of sales for 2023 to better und
 
 6.Which sales channel is contributing the most to sales?
 
-7.What is the highest-selling category?
 
 # Methodology
 
