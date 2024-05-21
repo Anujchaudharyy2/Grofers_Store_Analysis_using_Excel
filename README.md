@@ -64,4 +64,4 @@ The analysis provided valuable insights that can help the store owner understand
 
 ### Final Conclusion to Improve Grofers Store Sales:
 
-Target women customers of the age group (30-49 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads, offers, and coupons available on Amazon, Flipkart, and Myntra.
+Target women customers of the adult age group (30-49 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads, offers, and coupons available on Amazon, Flipkart, and Myntra.
