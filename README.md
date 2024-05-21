@@ -11,9 +11,9 @@ The store owner wants to create an annual report of sales for 2023 to better und
 
 1.Which month had the highest sales and orders?
 
-2.Who purchased more in 2022: men or women?
+2.Who purchased more in 2023: men or women?
 
-3.What are the different order statuses in 2022?
+3.What are the different order statuses in 2023?
 
 4.List the top 5 states contributing to sales.
 
